@@ -1,5 +1,5 @@
 # PWM
-Alllows to set any of the Teenys 3.2 pins to create PWM signals.
+Allows setting any of the Teenys 3.2 pins to create PWM signals.
 Uses analogwrite on the PWM pins and SoftPWM on the others.
 - Adjusts Resolution (PWM pins only)
 - Adjusts Frequency (PWM pins only)
@@ -28,9 +28,9 @@ r8   to set PWM resolution to 8 bits
 -------------------------------------------------
 Maximum Values:
 Teensy 3.2 96MHz Resolution 16bit, 723.42 Hz PWM 
-Teensy 3.2 96MHz Resoltuion  8bit, 187.5 kHz PWM 
-Teensy 3.2 96MHz Resoltuion  2bit,  12.0 MHz PWM 
 SoftPWN          Resoltuion  8bit,  60    Hz PWM 
+-------------------------------------------------
+List pins PWM or SOFT or NA here
 -------------------------------------------------
 Press S to continue.
 Streaming was turned off to hold this diplay.
